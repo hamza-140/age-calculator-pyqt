@@ -1,1 +1,1 @@
-﻿# age-calculator-pyqt
+﻿# Age Calculator PyQt6
